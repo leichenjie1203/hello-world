@@ -1,2 +1,2 @@
 # hello-world
-hello-wordle
+hello-world
